@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8c48783bce590f540871b3a614b24a14
+timeCreated: 1524900867
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mechanihan Ribbon
+  fontNames:
+  - Mechanihan Ribbon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d1ff73151d6863a4ab21960d270b5adc
+timeCreated: 1525012478
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CameoAppearance
+  fontNames:
+  - CameoAppearance
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
